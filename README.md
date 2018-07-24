@@ -1,6 +1,6 @@
 ## [Linguagem de Programação Orientada a Objetos 1](https://rodrigonoll.github.io/aula/lpoo-1.html)
 
-### [Exercício: Implementaçoes: Exceções](https://rodrigonoll.github.io/aula/java-api/#/2)
+### [Exercício: Exceções](https://rodrigonoll.github.io/aula/java-api/#/2)
 
 1. Crie a estrutura de classes abaixo. Os métodos de saque devem lançar a exceção de cheque especial quando a conta estiver em déficit.
 Crie os testes unitários para o método saca da ContaCorrente. Crie os testes unitários para o método saca da ContaCorrente. Altere ChequeEspecialException para estender RuntimeException e analise o que aconteceu.
